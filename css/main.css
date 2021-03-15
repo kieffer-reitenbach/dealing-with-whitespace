@@ -34,14 +34,32 @@ header p {
   border-bottom: 1px solid #999;
 }
 
-article {}
+article {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-article header {}
+article header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-article h1 {}
+article h1 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-article header p {}
+article header p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-article p {}
+article p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-article ol {}
+article ol {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
