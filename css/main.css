@@ -13,7 +13,6 @@ html {
 body {
   font-size: 1em;
   margin: 0;
-  color: #555;
 }
 
 h1 {
@@ -22,5 +21,5 @@ h1 {
 
 .quote {
   font-size: 1.125rem;
-  color: #999;
+  color: #555;
 }
