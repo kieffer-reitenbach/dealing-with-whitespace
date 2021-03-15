@@ -22,8 +22,8 @@ h1 {
 blockquote {
   font-size: 1.125rem;
   color: #555;
-  padding-bottom: .125rem;
-  padding-top: .125rem;
+  padding-bottom: .5rem;
+  padding-top: .5rem;
 }
 
 .quote {
@@ -41,6 +41,11 @@ article {
   padding-left: 1rem;
   padding-right: 1rem;
   border-bottom: 1px solid #999;
+}
+
+article blockquote p {
+  border-top: .5rem;
+  border-bottom: .5rem;
 }
 
 article header {
