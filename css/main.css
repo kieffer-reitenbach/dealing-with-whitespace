@@ -26,6 +26,6 @@ blockquote {
 
 header p {
   font-style: italic;
-  margin: 0;
+  margin: 0 0 1.3 0;
   border-bottom: 1px solid
 }
