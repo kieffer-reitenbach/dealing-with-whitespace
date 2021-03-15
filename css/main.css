@@ -22,8 +22,8 @@ h1 {
 blockquote {
   font-size: 1.125rem;
   color: #555;
-  padding-bottom: .05rem;
-  padding-top: .05rem;
+  padding-bottom: .0125rem;
+  padding-top: .0125rem;
 }
 
 .quote {
