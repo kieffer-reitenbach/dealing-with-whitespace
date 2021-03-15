@@ -19,7 +19,7 @@ h1 {
   font-weight: normal;
 }
 
-blockquote {
+blockquote p {
   font-size: 1.125rem;
   color: #555;
   padding-bottom: .0125rem;
