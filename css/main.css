@@ -19,17 +19,6 @@ h1 {
   font-weight: normal;
 }
 
-blockquote {
-  font-size: 1.125rem;
-  color: #555;
-  padding-bottom: .5rem;
-  padding-top: .5rem;
-}
-
-.quote {
-  color: #999;
-}
-
 header p {
   font-style: italic;
   margin: -1.3rem 0 1.3rem 0;
@@ -62,11 +51,20 @@ article header p {
 article p {
   padding-left: 0;
   padding-right: 0;
-  padding-bottom: .5rem;
-  padding-top: .5rem;
 }
 
 article ol {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+blockquote {
+  font-size: 1.125rem;
+  color: #555;
+  padding-bottom: .5rem;
+  padding-top: .5rem;
+}
+
+.quote {
+  color: #999;
 }
