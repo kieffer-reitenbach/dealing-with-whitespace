@@ -24,16 +24,24 @@ blockquote {
   color: #555;
 }
 
+.quote {
+
+}
+
 header p {
   font-style: italic;
   margin: -1.3rem 0 1.3rem 0;
   border-bottom: 1px solid #999;
 }
 
-article {
+article {}
 
-}
+article header {}
 
-article header {
+article h1 {}
 
-}
+article header p {}
+
+article p {}
+
+article ol {}
